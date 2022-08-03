@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,300;0,500;1,100;1,300;1,500&display=swap");
+* {
+  font-family: "Montserrat", sans-serif;
+}
+.about {
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 50px;
+  font-size: 13px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.about h1 {
+  margin-bottom: 20px;
+}
+.about h6 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.about p {
+  margin-top: 20px;
+}
+
+.uslugi {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+.uslugi__title {
+  display: flex;
+  justify-content: center;
+  margin-top: 150px;
+  margin-bottom: 50px;
+}
+.uslugi__par {
+  font-size: 13px;
+}
+.uslugi__komanda {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.maya {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 100px;
+}
+.maya__2 {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+.maya__3 {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+.maya__4 {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+  margin-bottom: 70px;
+}
+.fon {
+  background: url(./AdobeStock_202169920-scaled\ 1.png);
+  height: 100vh;
+}
+.fon h1 {
+  color: white;
+  padding: 100px;
+  font-size: 35px;
+}
